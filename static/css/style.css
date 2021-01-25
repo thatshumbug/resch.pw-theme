@@ -58,6 +58,11 @@ article {
     padding: 24px 0
 }
 
+div.meta {
+    font: 12px/1.5 monospace;
+    padding: 10px 0 10px 0;
+}
+
 .center {
     display: block;
     margin-left: auto;
